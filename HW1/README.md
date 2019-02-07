@@ -1,4 +1,4 @@
-### The Fleeting Capsule
+## The Fleeting Capsule
 
 The Fleeting Capsule is a new transportation in the future, it will send you to anywhere in a blink of an eye.
 
