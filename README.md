@@ -18,7 +18,7 @@ The Fleeting Capsule is a new transportation in the future, it will send you to 
 ## Week 3
 #### One Button Interaction User Flow
 
-![picture](../HW3/dishwasher user flow.jpg)
+![picture](/HW3/dishwasherUserFlow.jpg)
 
 
 ## Week 4
