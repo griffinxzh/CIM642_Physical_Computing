@@ -29,7 +29,20 @@ The Fleeting Capsule is a new transportation in the future, it will send you to 
 ## Week 5
 [Aduino project #12 - Knock Lock | Video](https://vimeo.com/328070098)
 
-## Paper Prototype
-![#1](/PaperPrototype/IMG_1990.HEIC)
+## Sensor Walk
+I am a music lover and I went to an musical instrument store. The DJ equipments got my attention. After chatting with the staff in store, I learned that when the DJ are producing music, the LED background light reacts to the sound. The way the LED background lights respond to music are programmed by a group of specialist before the performance. That inspired me to make an installation about music.
+![#1](./Sensor Walk/IMG_0732.jpg)
 
-![#2](/PaperPrototype/IMG_1991.HEIC)
+![#2](./Sensor Walk/IMG_0734.jpg)
+
+![#3](./Sensor Walk/IMG_0729.jpg)
+
+![#4](./Sensor Walk/IMG_0720.jpg)
+
+
+
+
+## Paper Prototype
+![#1](./PaperPrototype/IMG_1990.jpg)
+
+![#2](./PaperPrototype/IMG_1991.jpg)
