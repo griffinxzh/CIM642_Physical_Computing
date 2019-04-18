@@ -39,6 +39,7 @@ I am a music lover and I went to an musical instrument store. The DJ equipments 
 
 ![#4](./Sensor Walk/IMG_0720.jpg)
 
+## [Midterm](https://github.com/griffinxzh/CIM642_Physical_Computing/tree/master/Midterm)
 
 
 ## Paper Prototype
