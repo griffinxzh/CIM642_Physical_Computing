@@ -41,8 +41,13 @@ I am a music lover and I went to an musical instrument store. The DJ equipments 
 
 
 
-
 ## Paper Prototype
 ![#1](./PaperPrototype/IMG_1990.jpg)
 
 ![#2](./PaperPrototype/IMG_1991.jpg)
+
+
+## 3D Printing Parts
+![1](./Digital Fabrication/img/IMG_1978.jpg)
+
+![2](./Digital Fabrication/img/IMG_1979.jpg)
