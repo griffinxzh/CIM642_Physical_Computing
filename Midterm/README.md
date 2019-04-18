@@ -33,3 +33,7 @@ Eye VDJ Masa is an ALS patient. Due to the fact that his limbs are paralyzed, he
 * Low fidelity speaker (output: sound)
 * Card board
 * Battery
+
+
+
+![all](./IMGandVideo/all.jpg)
