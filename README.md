@@ -28,3 +28,8 @@ The Fleeting Capsule is a new transportation in the future, it will send you to 
 
 ## Week 5
 [Aduino project #12 - Knock Lock | Video](https://vimeo.com/328070098)
+
+## Paper Prototype
+![1](/PaperPrototype/IMG_1990.HEIC)
+
+![2](/PaperPrototype/IMG_1991.HEIC)

@@ -38,4 +38,4 @@ Eye VDJ Masa is an ALS patient. Due to the fact that his limbs are paralyzed, he
 
 ![all](./IMGandVideo/all.jpg)
 
-[5 Slides Intro]()
+[5 Slides Intro - Original Proposal](https://github.com/griffinxzh/CIM642_Physical_Computing/blob/master/Midterm/MidtermOrignalProposal.pdf)
