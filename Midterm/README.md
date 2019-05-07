@@ -1,8 +1,8 @@
-# Maze Melody
+# Mood Melody
 
 [Test Video](https://vimeo.com/331150712)
 
-Maze Melody is a dodecahedron-shaped digital musical instrument. It produces different tune according to different angles.
+Mood Melody is a dodecahedron-shaped digital musical instrument. It produces different tune according to different angles.
 
 #### Why do I make it
 I am a music lover and a game lover, and the project is to explore how movement and music could influence and interact with each other.
