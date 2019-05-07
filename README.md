@@ -52,3 +52,6 @@ I am a music lover and I went to an musical instrument store. The DJ equipments 
 ![1](./DigitalFabrication/img/IMG_1978.jpg)
 
 ![2](./DigitalFabrication/img/IMG_1979.jpg)
+
+
+## [Final](https://github.com/griffinxzh/CIM642_Physical_Computing/tree/master/Final)
